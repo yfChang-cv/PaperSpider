@@ -1,12 +1,9 @@
-import random
-
 from urllib import request
 import requests
 import time, re, csv
 from lxml import etree
 from tqdm import tqdm
 # from fake_useragent import UserAgent
-from requests.adapters import HTTPAdapter
 
 # 使用http代理
 proxies = {

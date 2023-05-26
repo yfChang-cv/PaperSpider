@@ -1,8 +1,8 @@
 # PaperSpider
 This is a web scraping tool designed to extract academic papers from various conference proceedings.<br>
-At present, papers from **CVPR**/**ICCV**/**WACV** can be crawled.<br>
-*Other conferences work in process.*<br>
-*And multithreading feature is still under development.*<br>
+- At present, papers from **CVPR**/**ICCV**/**WACV** can be crawled.<br>
+- *Other conferences work in process.*<br>
+- *And multithreading feature is still under development.*<br>
 
 
 ## Install
